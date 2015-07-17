@@ -1,3 +1,9 @@
+#Aurelia Testing via Wallaby.js
+Based on http://patrickwalters.net/unit-testing-your-es6-view-models-my-best-practices-for-aurelia/
+Download plugin for VS or Webstorm from http://www.wallaby.js 
+
+![Aurlia Testing](/AureliaTesting.gif)
+
 # aurelia-skeleton-navigation
 
 [![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.io)
